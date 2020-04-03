@@ -1,0 +1,4 @@
+sylius.form.product.color: "Kolor"
+sylius.form.product.color.red: "Czerwony"
+sylius.form.product.color.green: "Zielony"
+sylius.form.product.color.blue: "Niebieski"
